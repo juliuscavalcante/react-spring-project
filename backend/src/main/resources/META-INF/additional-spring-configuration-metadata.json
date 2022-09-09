@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "twilio.phone.to",
+      "type": "java.lang.String",
+      "description": "Description for twilio.phone.to."
+    },
+    {
+      "name": "twilio.sid",
+      "type": "java.lang.String",
+      "description": "Description for twilio.sid."
+    }
+  ] }
